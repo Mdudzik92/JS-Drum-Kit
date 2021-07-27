@@ -33,6 +33,12 @@ html {
 	text-shadow: 0 0 0.5rem black;
 }
 
+.playing {
+	transform: scale(1.2);
+	border-color: #ffc600;
+	box-shadow: 0 0 10px #ffc600;
+}
+
 kbd {
 	display: block;
 	font-size: 4rem;
